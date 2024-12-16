@@ -1,8 +1,8 @@
 # Na-oxyfluoride-screening
-This repository contains the density functional theory (DFT) calculated data of all sodium (Na)-containing transition metal oxyfluorides (TMOFs) considered as part of our research paper that is currently under review. The manuscript is available on <a href="https://arxiv.org/abs/2405.07614">arXiv</a>.
+This repository contains the density functional theory (DFT) calculated data of all sodium (Na)-containing transition metal oxyfluorides (TMOFs) considered as part of our research paper that is published on Chemistry of Materials at this <a href="https://doi.org/10.1021/acs.chemmater.4c02374">DoI</a>. A pre-print of the manuscript is available on <a href="https://arxiv.org/abs/2405.07614">arXiv</a>.
 
 We explored the chemical space of TMOFs that exhibit perovskite structures as potential positive electrodes (cathodes) or negative electrodes (anodes) for Na-ion batteries. Specifically, we calculated the ground state Na-vacancy configurations, 0 K thermodynamic stability, average Na intercalation voltage, and Na<sup>+</sup> mobility in TMOFs to identify promising candidates. In terms of chemistries, we considered formula units of Na<sub>x</sub>MOF<sub>2</sub> and Na<sub>1+x</sub>MO<sub>2</sub>F (x = 0-1) representing fluorine-rich and oxygen-rich perovskites, respectively, where M = Ti, V, Cr, Mn, Fe, Co, or Ni.
 
 The "NaMO2F_systems" and "MOF2_systems" folders contains the final relaxed structures (and the associated output DFT files) of all Na-vacancy arrangements, in all perovskite polymorphs and transition metals considered. "Na2MO2F" and "NaMOF2" folders contain the sodiated ground state compositions identified for NaMO<sub>2</sub>F and MOF<sub>2</sub> compositions, respectively. "NEB" folder contains the nudged elastic band calculations reported in the manuscript.
 
-In case you use any of the data here, we would appreciate a citation to our manuscript at <a href="https://arxiv.org/abs/2405.07614">arXiv</a> and our eventual publication at (DoI-to-be-updated).
+In case you use any of the data here, we would appreciate a citation to our manuscript at <a href="https://arxiv.org/abs/2405.07614">DoI</a>.
